@@ -43,3 +43,8 @@ nav {
  background-color:#C1272D;
  border-radius:15px;
 }
+.maincontent {
+ background:rgb(0,0,255);
+ width:90%;
+ height:500px;
+}
