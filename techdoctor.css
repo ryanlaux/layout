@@ -57,9 +57,11 @@ nav {
  
 }
 .mcleftside {
- width:50%;
- margin:0 20px;
+ width:49%;
+ margin:0 10px;
 }
 .mcrightside {
- width:50%;
+ width:49%;
+ margin:0 10px;
+ clear:left;
 }
