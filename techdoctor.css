@@ -6,7 +6,7 @@ body {
   background:-webkit-linear-gradient(#0071BC,#29ABE2); 
   width:100%;
   height:50px;
-  margin-top:35px;
+  margin-top:32px;
 }
 #wrapper {
  width:960px;
@@ -79,4 +79,5 @@ float:right;
  height:101px;
  position:fixed;
  top:0px;
+ left:10%;
 }
