@@ -143,6 +143,7 @@ float:right;
 }
 
 .form {
+width:80%;
 postition: absolute;
 margin-top:125px;
 margin-left:50px;
