@@ -79,4 +79,5 @@ float:right;
 .logo {
  width:480px;
  height:101px;
+ position:fixed;
 }
