@@ -30,7 +30,6 @@ nav {
  margin:13px 8px;
 }
 .navlistitem a {
- font-family: 'Francois One', sans-serif;
  font-size:18px;
  color:#FFFFFF;
 }
@@ -63,6 +62,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0071bc', end
  
 }
 .maincontentparagraph {
+  font-family: 'Francois One', sans-serif;
  color:#FFFFFF;
  text-shadow:3px black;
 }
