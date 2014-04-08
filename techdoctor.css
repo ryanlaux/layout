@@ -82,5 +82,8 @@ float:right;
 }
 .socialmedia {
  display:inline;
-	list-style-type:none;
+list-style-type:none;
+}
+.fonta {
+color:#C1272D;	
 }
