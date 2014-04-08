@@ -73,3 +73,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0071bc', end
  margin:0 10px;
 float:right;
 }
+.logo {
+ width:50%;
+ height:50%;
+}
