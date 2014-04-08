@@ -63,6 +63,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0071bc', end
 }
 .maincontentparagraph {
  color:#FFFFFF;
+ text-shadow:1px black;
 }
 .mcleftside {
  width:49%;
