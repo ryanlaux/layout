@@ -63,5 +63,5 @@ nav {
 .mcrightside {
  width:49%;
  margin:0 10px;
- clear:left;
+float:left;
 }
