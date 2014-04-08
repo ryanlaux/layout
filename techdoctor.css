@@ -80,3 +80,7 @@ float:right;
  position:absolute;
  top:30px;
 }
+.socialmedia {
+ display:inline;
+	list-style-type:none;
+}
