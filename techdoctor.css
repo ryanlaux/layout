@@ -82,12 +82,12 @@ float:right;
  top:30px;
 }
 .socialmedia {
- display:inline;
+display:inline;
 list-style-type:none;
 }
 .fonta {
 color:#C1272D;
-margin:0 60px 0 70px;
+margin:0 60px 0 75px;
 float:right;
 }
 .clipboard {
