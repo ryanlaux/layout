@@ -55,7 +55,7 @@ background: linear-gradient(to bottom,  #0071bc 0%,#29abe2 15%,#29abe2 85%,#0071
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0071bc', endColorstr='#0071bc',GradientType=0 ); /* IE6-9 */
  width:90%;
  height:500px;
- margin:0 auto;
+ margin:25px auto 0 auto;
  border-radius:15px;
 }
 .maincontentheader {
