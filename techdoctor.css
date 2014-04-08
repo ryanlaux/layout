@@ -59,12 +59,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0071bc', end
  border-radius:15px;
 }
 .maincontentheader {
- 
+font-family: 'Francois One', sans-serif;
 }
 .maincontentparagraph {
+font-family: 'Francois One', sans-serif;
+color:#FFFFFF;
+text-shadow:3px black;
+}
+.mcfooter {
   font-family: 'Francois One', sans-serif;
- color:#FFFFFF;
- text-shadow:3px black;
+
 }
 .mcleftside {
  width:49%;
