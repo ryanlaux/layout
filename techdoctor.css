@@ -15,9 +15,9 @@ body {
  margin: 0 auto;
 }
 nav {
- margin:25px auto 0 auto; 
+ margin:15px auto 0 auto; 
  width:90%;
- height:50px;
+ height:40px;
  background-color:#C1272D;
  border-radius:15px;
 }
@@ -26,23 +26,32 @@ nav {
 .navlistitem {
  list-style:none;
  display:inline-block;
- padding:0 15px;
- margin:13px 8px;
+ padding:0 23px;
+ margin:8px 10px;
 }
 .navlistitem a {
  font-size:18px;
+font-family: 'Francois One', sans-serif;
  color:#FFFFFF;
+ text-decoration:none;
 }
 .navlistitem a:hover {
  color:#B3B3B3;
  text-decoration:none;
 }
 .footer {
- margin:25px auto 0 auto; 
+ margin:0px auto 0 auto; 
  width:90%;
- height:50px;
+ height:40px;
  background-color:#C1272D;
  border-radius:15px;
+font-family: 'Francois One', sans-serif;
+color:#FFFFFF;
+text-shadow:3px black;
+font-size:12px;
+text-align:center;
+margin-top:0px;
+
 }
 .maincontent {
 background: #0071bc; /* Old browsers */
@@ -55,17 +64,24 @@ background: linear-gradient(to bottom,  #0071bc 0%,#29abe2 15%,#29abe2 85%,#0071
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0071bc', endColorstr='#0071bc',GradientType=0 ); /* IE6-9 */
  width:90%;
  height:500px;
- margin:25px auto 0 auto;
+ margin:10px auto -4px auto;
  border-radius:15px;
 }
 .maincontentheader {
+
 font-family: 'Francois One', sans-serif;
 color:#FFFFFF;
+font-size:25px;
+margin-top:25px;
+
 }
 .maincontentparagraph {
 font-family: 'Francois One', sans-serif;
 color:#FFFFFF;
 text-shadow:3px black;
+font-size:15px;
+margin-top:-5px;
+
 }
 .mcfooter {
   font-family: 'Francois One', sans-serif;
@@ -78,14 +94,14 @@ color:#FFFFFF;
 }
 .mcrightside {
  width:45%;
- margin:0 10px;
+ margin:0 15px;
 float:right;
 }
 .logo {
  width:480px;
- height:101px;
+ height:90px;
  position:absolute;
- top:30px;
+ top:35px;
 }
 .socialmedia {
 display:inline;
