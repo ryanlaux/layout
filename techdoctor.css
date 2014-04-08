@@ -60,6 +60,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0071bc', end
 }
 .maincontentheader {
 font-family: 'Francois One', sans-serif;
+color:#FFFFFF;
 }
 .maincontentparagraph {
 font-family: 'Francois One', sans-serif;
@@ -68,7 +69,7 @@ text-shadow:3px black;
 }
 .mcfooter {
   font-family: 'Francois One', sans-serif;
-
+color:#FFFFFF;
 }
 .mcleftside {
  width:49%;
