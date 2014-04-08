@@ -1,7 +1,6 @@
 body {
- background-color:#BDCCD4;
- background-image:http://bglabs.evade.netdna-cdn.com/wp-content/uploads/2013/06/seamless-pattern-of-circuit-board-grey.png;
-background-repeat:repeat;
+
+  background: url("http://www.backgroundlabs.com/item/seamless-pattern-of-circuit-board/") 50% 50% no-repeat;
 }
 
 .banner {
