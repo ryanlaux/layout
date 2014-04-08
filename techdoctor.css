@@ -35,3 +35,10 @@ nav {
  color:#B3B3B3;
  text-decoration:none;
 }
+.footer {
+ margin:25px auto 0 auto; 
+ width:80%;
+ height:50px;
+ background-color:#C1272D;
+ border-radius:15px;
+}
