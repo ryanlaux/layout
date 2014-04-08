@@ -1,6 +1,7 @@
 body {
 
-  background: url("http://www.backgroundlabs.com/item/seamless-pattern-of-circuit-board/") 50% 50% repeat;
+  background: url("http://www.backgroundlabs.com/item/seamless-pattern-of-circuit-board/") ;
+  background-repeat:repeat;
 }
 
 .banner {
