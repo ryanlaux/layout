@@ -1,6 +1,9 @@
 body {
  background-color:#BDCCD4;
 }
+header {
+ background-color:rgb(0,0,255);
+}
 #wrapper {
  width:960px;
  height:auto;
