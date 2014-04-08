@@ -1,6 +1,7 @@
 body {
 
   background: url("background.svg") ;
+background-size: 150px 150px;
   background-repeat:repeat;
 }
 
@@ -9,6 +10,9 @@ body {
   width:100%;
   height:50px;
   margin-top:62px;
+border-bottom-style:solid;
+	border-bottom-width:5px;
+	border-bottom-color:rgb(0,113,188);
 }
 #wrapper {
  width:960px;
@@ -20,8 +24,13 @@ nav {
  margin:15px auto 0 auto; 
  width:90%;
  height:40px;
+border-radius:15px;
+
  background-color:#C1272D;
- border-radius:15px;
+ border-bottom-style:solid;
+	border-bottom-width:4px;
+	border-bottom-color:rgb(148,39,45);
+
 }
 .navlist {
 }
@@ -42,7 +51,7 @@ font-family: 'Francois One', sans-serif;
  text-decoration:none;
 }
 .footer {
- margin:0px auto 0 auto; 
+margin:0px auto 0 auto; 
  width:90%;
  height:40px;
  background-color:#C1272D;
@@ -53,6 +62,11 @@ text-shadow:3px black;
 font-size:12px;
 text-align:center;
 margin-top:15px;
+background-color:#C1272D;
+ border-bottom-style:solid;
+	border-bottom-width:4px;
+	border-bottom-color:rgb(148,39,45);
+
 
 }
 .maincontent {
