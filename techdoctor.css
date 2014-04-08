@@ -110,8 +110,13 @@ color:#FFFFFF;
  margin-left:40px;
 }
 .mcrightside {
+background: url("clipboard.png") ;
+background-repeat:no-repeat;
+background-size: 330px 441px;
+
+height:95%;
  width:45%;
- margin:0 15px;
+ margin:0px -15px;
 float:right;
 }
 .logo {
@@ -135,4 +140,12 @@ height:85%;
 margin-right:25px;
 margin-top:10px;
 float:right;
+}
+
+.form {
+postition: absolute;
+margin-top:125px;
+margin-left:50px;
+font-family: 'Francois One', sans-serif;
+color::#C1272D;
 }
