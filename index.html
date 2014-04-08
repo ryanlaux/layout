@@ -2,6 +2,8 @@
 <html>
 <head>
   <title>My Layout Index</title>
+  <link href='http://fonts.googleapis.com/css?family=Francois+One' rel='stylesheet' type='text/css'>
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
     <link rel="stylesheet" href="techdoctor.css">
 </head>
@@ -9,45 +11,50 @@
 <body>
 
 <div id="wrapper">
-    <header>
-        <h1>My Page</h1>
-    </header> 
-    
+    <img src="Logo.png" alt="tech doctor logo" class="logo">
     <div id="content">
+     <div class="banner">
+      </div> 
+ 
         <nav>
-            <ul>
-                <li>link 1</li>
-                <li>link 2</li>
-                <li>link 3</li>
+            <ul class="navlist">
+                <li class="navlistitem"> <a href="index.html"> Home </a> </li>
+                <li class="navlistitem"> <a href="requestservice.html"> Request Service </a> </li>
+                <li class="navlistitem"> <a href="doctor.html"> Our Doctors </a> </li>
+                <li class="navlistitem"> <a href="help.html"> How We Can Help </a> </li>
+                <li class="navlistitem"> <a href="contact.html"> Contact Us </a> </li>
             </ul>
         </nav>
         
-        <article>
-            <header class="article-header">
-                <h1>Article Headline</h1>
-            </header>
-            
-            <section>
-                <p>This is my article copy</p>  
-            </section>
-            
-            <footer class="article-footer">
-                <p>article footer</p>
-            </footer>
-        </article>
+        <div class="maincontent">
         
-        <aside>
-             <ul>
-                <li>link 1</li>
-                <li>link 2</li>
-                <li>link 3</li>
-            </ul>
-        </aside>
+          <div class="mcleftside">
+              <header>
+                  <h1 class="maincontentheader"> Welcome to theTechDoctor.net! </h1>
+              </header>
+              
+              <section>
+                  <p class="maincontentparagraph">Computer frozen? Lost all your phone pictures? Got a paper jam? The Tech Doctor is here to help YOU!</p>  
+<p class="maincontentparagraph">Request Service with the button below or submit an Emergency Room! request for help NOW!</p>  
+
+              </section>
+              
+              <footer class="mcfooter">
+                  <p class="mcfooterp"></p>
+              </footer>
+           </div>
+           <div class="mcrightside">
+             <img src="clipboard.png" alt="clipboard and form" class="clipboard">
+            <li class="socialmedia"> <a href="#"> <i class="fa fa-facebook-square fa-4x fonta"> </i> </a> </li> 
+	    <li class="socialmedia"> <a href="#"> <i class="fa fa-twitter-square fa-4x fonta"> </i> </a> </li> 
+           </div>
+        </div>
+        
         
     </div>
     
-    <footer id="page-footer">
-       <p>page footer</p>
+    <footer class="footer">
+       <p>Copyright 2014 Ryan Laux | theTechDoctor.net is not an MD or licensed doctor</p>
     </footer>
 </div>
 
