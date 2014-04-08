@@ -76,4 +76,6 @@ float:right;
 .logo {
  width:50%;
  height:80%;
+ position:absolute;
+ top:0px;
 }
