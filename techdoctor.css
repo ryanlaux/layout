@@ -27,3 +27,6 @@ nav {
  padding:0 0;
  margin:15px 0;
 }
+.navlistitem a {
+ font-size:20px;
+}
