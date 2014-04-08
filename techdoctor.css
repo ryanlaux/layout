@@ -31,3 +31,6 @@ nav {
  font-size:18px;
  color:#FFFFFF;
 }
+.navlistitem a:hover {
+ color:black;
+}
