@@ -15,7 +15,7 @@ nav {
  border-radius:25px;
 }
 .navlist {
- display:inline;
+ display:inline-block;
 }
 .navlistitem {
  list-style:none;
