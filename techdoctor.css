@@ -13,11 +13,11 @@ body {
  margin: 0 auto;
 }
 nav {
- margin:0 auto; 
+ margin:25px auto 0 auto; 
  width:80%;
  height:50px;
  background-color:#C1272D;
- border-radius:25px;
+ border-radius:10px;
 }
 .navlist {
 }
@@ -25,5 +25,5 @@ nav {
  list-style:none;
  display:inline-block;
  padding:0 0;
- margin:0 0;
+ margin:5px 0;
 }
