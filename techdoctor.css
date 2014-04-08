@@ -1,1 +1,11 @@
-adsfadsf
+#wrapper {
+ width:960px;
+ height:auto;
+ background-color:#BDCCD4;
+ margin: 0 auto;
+}
+nav {
+ margin:0 auto; 
+ width:80%;
+ height:50px;
+}
