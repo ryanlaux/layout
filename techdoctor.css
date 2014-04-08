@@ -32,5 +32,6 @@ nav {
  color:#FFFFFF;
 }
 .navlistitem a:hover {
- color:black;
+ color:#B3B3B3;
+ text-decoration:none;
 }
