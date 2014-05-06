@@ -15,7 +15,15 @@ border-bottom-style:solid;
 	border-bottom-width:5px;
 	border-bottom-color:rgb(0,113,188);
 }
-.
+
+.listitems {
+font-family: 'Francois One', sans-serif;
+color:#FFFFFF;
+text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
+font-size:17px;
+margin-top:-5px;
+
+}
 #wrapper {
  width:960px;
  height:auto;

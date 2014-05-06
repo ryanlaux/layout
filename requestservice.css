@@ -1,5 +1,4 @@
 body {
-
   background: url("background.svg") ;
 background-size: 150px 150px;
   background-repeat:repeat;
@@ -15,7 +14,14 @@ border-bottom-style:solid;
 	border-bottom-width:5px;
 	border-bottom-color:rgb(0,113,188);
 }
-.
+.listitems {
+font-family: 'Francois One', sans-serif;
+color:#FFFFFF;
+text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
+font-size:17px;
+margin-top:-5px;
+
+}
 #wrapper {
  width:960px;
  height:auto;
@@ -70,7 +76,9 @@ background-color:#C1272D;
 	border-bottom-color:rgb(148,39,45);
 line-height: 20px;
 
-
+.maincl {
+color:white;
+}
 
 }
 .maincontent {
@@ -101,7 +109,7 @@ font-family: 'Francois One', sans-serif;
 color:#FFFFFF;
 text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 font-size:17px;
-margin-top:-5px;
+
 
 }
 .mcfooter {
@@ -153,6 +161,16 @@ postition: absolute;
 margin-top:125px;
 margin-left:50px;
 font-size:20px;
+font-family: 'Francois One', sans-serif;
+color:#C1272D;
+}
+
+.form2 {
+width:100%;
+postition: left;
+margin-top:0px;
+margin-left:50px;
+font-size:22px;
 font-family: 'Francois One', sans-serif;
 color:#C1272D;
 }

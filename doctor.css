@@ -15,7 +15,6 @@ border-bottom-style:solid;
 	border-bottom-width:5px;
 	border-bottom-color:rgb(0,113,188);
 }
-.
 #wrapper {
  width:960px;
  height:auto;
@@ -155,4 +154,10 @@ margin-left:50px;
 font-size:20px;
 font-family: 'Francois One', sans-serif;
 color:#C1272D;
+}
+
+.picclass {
+ display: block;
+    margin-left: auto;
+    margin-right: auto }
 }
