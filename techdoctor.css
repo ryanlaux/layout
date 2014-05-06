@@ -54,7 +54,7 @@ font-family: 'Francois One', sans-serif;
 .footer {
 margin:0px auto 0 auto; 
  width:90%;
- height:40px;
+ height:20px;
  background-color:#C1272D;
  border-radius:15px;
 font-family: 'Francois One', sans-serif;
@@ -67,6 +67,8 @@ background-color:#C1272D;
  border-bottom-style:solid;
 	border-bottom-width:4px;
 	border-bottom-color:rgb(148,39,45);
+line-height: 20px;
+
 
 
 }
@@ -90,13 +92,14 @@ font-family: 'Francois One', sans-serif;
 color:#FFFFFF;
 font-size:25px;
 margin-top:25px;
+text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 
 }
 .maincontentparagraph {
 font-family: 'Francois One', sans-serif;
 color:#FFFFFF;
-text-shadow:3px black;
-font-size:15px;
+text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
+font-size:17px;
 margin-top:-5px;
 
 }
