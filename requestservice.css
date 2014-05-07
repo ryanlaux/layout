@@ -91,7 +91,7 @@ background: -ms-linear-gradient(top,  #0071bc 0%,#29abe2 15%,#29abe2 85%,#0071bc
 background: linear-gradient(to bottom,  #0071bc 0%,#29abe2 15%,#29abe2 85%,#0071bc 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0071bc', endColorstr='#0071bc',GradientType=0 ); /* IE6-9 */
  width:90%;
- height:500px;
+ height:600px;
  margin:10px auto -4px auto;
  border-radius:15px;
 }
@@ -105,6 +105,7 @@ text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 
 }
 .maincontentparagraph {
+
 font-family: 'Francois One', sans-serif;
 color:#FFFFFF;
 text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
@@ -117,7 +118,8 @@ font-size:17px;
 color:#FFFFFF;
 }
 .mcleftside {
- width:46%;
+ 
+width:46%;
  float:left;
  margin-left:40px;
 }
@@ -166,11 +168,18 @@ color:#C1272D;
 }
 
 .form2 {
+height: 70%;
+background: url("paper.png");
+background-repeat:no-repeat;
+background-size: 90% 89%;
+
 width:100%;
 postition: left;
 margin-top:0px;
-margin-left:50px;
-font-size:22px;
+margin-left:0px;
+padding-top:13px;
+padding-left:55px;
+font-size:18px;
 font-family: 'Francois One', sans-serif;
 color:#C1272D;
 }
