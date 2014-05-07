@@ -158,6 +158,7 @@ float:right;
 }
 
 .form {
+font-style:normal
 width:60%;
 postition: absolute;
 margin-top:125px;
@@ -168,6 +169,7 @@ color:#C1272D;
 }
 
 .form2 {
+font-style:normal
 height: 70%;
 background: url("paper.png");
 background-repeat:no-repeat;
