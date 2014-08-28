@@ -170,10 +170,10 @@ color:#C1272D;
 
 .form2 {
 font-style:normal
-height: 200px;
+height: 120%;
 background: url("paper.png");
 background-repeat:no-repeat;
-background-size: 150px, 200px;
+background-size: 400px;
 
 width:100%;
 postition: left;
