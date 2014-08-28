@@ -79,7 +79,8 @@ background: -o-linear-gradient(top,  #0071bc 0%,#29abe2 15%,#29abe2 85%,#0071bc 
 background: -ms-linear-gradient(top,  #0071bc 0%,#29abe2 15%,#29abe2 85%,#0071bc 100%); /* IE10+ */
 background: linear-gradient(to bottom,  #0071bc 0%,#29abe2 15%,#29abe2 85%,#0071bc 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0071bc', endColorstr='#0071bc',GradientType=0 ); /* IE6-9 */
- width:90%;
+ 
+width:90%;
  height:500px;
  margin:10px auto -4px auto;
  border-radius:15px;
@@ -88,15 +89,17 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0071bc', end
 
 font-family: 'Francois One', sans-serif;
 color:#FFFFFF;
-font-size:25px;
+font-size:27px;
 margin-top:25px;
+text-shadow: 1px 1px 0px #000;
+
 
 }
 .maincontentparagraph {
 font-family: 'Francois One', sans-serif;
 color:#FFFFFF;
-text-shadow:3px black;
-font-size:15px;
+text-shadow: 1px 1px 0px #000;
+font-size:18px;
 margin-top:-5px;
 
 }
@@ -116,7 +119,7 @@ background-size: 330px 441px;
 
 height:95%;
  width:45%;
- margin:0px -15px;
+ margin:10px -15px;
 float:right;
 }
 .logo {
@@ -138,7 +141,7 @@ float:right;
 width:80%;
 height:85%;
 margin-right:25px;
-margin-top:10px;
+margin-top:50px;
 float:right;
 }
 
