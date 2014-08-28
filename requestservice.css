@@ -1,5 +1,4 @@
 body {
-
   background: url("background.svg") ;
 background-size: 150px 150px;
   background-repeat:repeat;
@@ -14,6 +13,14 @@ background: -moz-linear-gradient(#0071BC,#29ABE2);
 border-bottom-style:solid;
 	border-bottom-width:5px;
 	border-bottom-color:rgb(0,113,188);
+}
+.listitems {
+font-family: 'Francois One', sans-serif;
+color:#FFFFFF;
+text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
+font-size:17px;
+margin-top:-5px;
+
 }
 #wrapper {
  width:960px;
@@ -67,6 +74,11 @@ background-color:#C1272D;
  border-bottom-style:solid;
 	border-bottom-width:4px;
 	border-bottom-color:rgb(148,39,45);
+line-height: 20px;
+
+.maincl {
+color:white;
+}
 
 }
 .maincontent {
@@ -79,7 +91,7 @@ background: -ms-linear-gradient(top,  #0071bc 0%,#29abe2 15%,#29abe2 85%,#0071bc
 background: linear-gradient(to bottom,  #0071bc 0%,#29abe2 15%,#29abe2 85%,#0071bc 100%); /* W3C */
 filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0071bc', endColorstr='#0071bc',GradientType=0 ); /* IE6-9 */
  width:90%;
- height:500px;
+ height:600px;
  margin:10px auto -4px auto;
  border-radius:15px;
 }
@@ -93,11 +105,12 @@ text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
 
 }
 .maincontentparagraph {
+
 font-family: 'Francois One', sans-serif;
 color:#FFFFFF;
 text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
-font-size:19px;
-margin-top:-5px;
+font-size:17px;
+
 
 }
 .mcfooter {
@@ -105,7 +118,8 @@ margin-top:-5px;
 color:#FFFFFF;
 }
 .mcleftside {
- width:46%;
+ 
+width:46%;
  float:left;
  margin-left:40px;
 }
@@ -144,6 +158,7 @@ float:right;
 }
 
 .form {
+font-style:normal
 width:60%;
 postition: absolute;
 margin-top:125px;
@@ -153,13 +168,35 @@ font-family: 'Francois One', sans-serif;
 color:#C1272D;
 }
 
-.picclass {
- display: block;
-margin-top: 50px;    
-margin-left: auto;
-    margin-right: auto;
-width:90%;
-  height:auto; }
+.form2 {
+font-style:normal
+height: 70%;
+background: url("paper.png");
+background-repeat:no-repeat;
+background-size: 90% 89%;
+
+width:100%;
+postition: left;
+margin-top:0px;
+margin-left:0px;
+padding-top:13px;
+padding-left:55px;
+font-size:18px;
+
+}
+.ss-q-title {
+font-size:20px;
+color:#C1272D;
+font-family: 'Francois One', sans-serif;
+
+-text-shadow: 1px 1px 0px rgba(0, 0, 0, 1);
+-webkit-font-smoothing: antialiased;
 }
 
-
+.ss-q-short2 {
+padding-top: -50px;
+font-family: sans-serif;
+font-size: 12px;
+width: 198px;
+height: 19px;
+}
